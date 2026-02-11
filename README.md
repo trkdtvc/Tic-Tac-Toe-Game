@@ -39,9 +39,3 @@ No build tools or installation required.
 - `index.html` → Root HTML file
 - `index.jsx` → React game logic
 - `styles.css` → Game styling
-
-## Future Improvements
-- Highlight winning line
-- Score tracking
-- Restart confirmation modal
-- Animations for moves
